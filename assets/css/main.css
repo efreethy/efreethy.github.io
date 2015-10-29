@@ -3106,3 +3106,47 @@
 			}
 
 	}
+.skills-img-containter {
+
+	height: 300px;
+	text-align: center;
+}
+.skills-img-container:after {
+	content: "";
+	display: block;
+	clear: both;
+	
+}
+
+.devicon-react-original-wordmark {
+	 font-size: 100px;
+ }
+
+.devicon-rails-plain-wordmark {
+	margin-top: -20px;
+	font-size: 100px;
+}
+.devicon-ruby-plain-wordmark {
+		font-size: 100px;
+}
+.devicon-javascript-plain {
+		font-size: 100px;
+}
+.devicon-jquery-plain-wordmark {
+		font-size: 100px;
+}
+.devicon-postgresql-plain-wordmark {
+		font-size: 100px;
+}
+.devicon-git-plain-wordmark {
+		font-size: 100px;
+}
+.devicon-html5-plain-wordmark {
+	font-size: 100px;
+}
+.devicon-css3-plain-wordmark {
+	font-size: 100px;
+}
+.devicon-bootstrap-plain-wordmark {
+	font-size: 100px;
+}
