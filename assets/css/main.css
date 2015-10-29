@@ -3107,11 +3107,17 @@
 
 	}
 .skills-img-containter {
+border: solid 1px blue;
 
-	height: 150px;
 	text-align: center;
 }
 .skills-img-container:after {
+	content: "";
+	display: block;
+	clear: both;
+
+}
+.skills-img-container:before {
 	content: "";
 	display: block;
 	clear: both;
