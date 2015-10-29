@@ -3159,7 +3159,6 @@
 
 .recent-work-container {
 	width: 100%;
-	border: solid 1px green;
 }
 .recent-work-container:after{
 	content: "";
@@ -3178,16 +3177,26 @@
 	color: white;
 }
 .chess-block {
-		margin: auto;
-	height: 250px;
-	width: 450px;
-	border: solid 1px blue;
-}
-.asteroids-block {
+	margin-top: 25px;
 	margin: auto;
 	height: 250px;
-	width: 450px;
+	width: 100%
 	border: solid 1px blue;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/chess.png");
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+.asteroids-block {
+	margin-top: 25px;
+	margin: auto;
+	height: 250px;
+	width: 100%
+	border: solid 1px blue;
+	background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/asteroids.png");
+	background-position: center;
+	background-size: cover;
+	color: white;
 }
 
 section.two {
@@ -3198,4 +3207,20 @@ section.two {
 	color: white;
 	text-align: center;
 	vertical-align: text-middle;
+	font-size: 45px;
+
+}
+
+.links-container {
+	width: 175px;
+	margin: auto;
+	margin-top: 10px;
+	font-size: 30px;
+}
+.links-container.chess {
+	width: 100px;
+
+}
+.link-text {
+	font-size: 30px;
 }
