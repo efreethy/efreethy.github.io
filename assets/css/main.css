@@ -3236,3 +3236,13 @@ section.two {
 	text-align: center;
 	margin-top: -25px;
 }
+
+#gundamMovie {
+   width: 330px;
+	 height: 800px;
+   background:transparent url('images/chess.jpg') no-repeat 0 0;
+   -webkit-background-size:cover;
+   -moz-background-size:cover;
+   -o-background-size:cover;
+   background-size:cover;
+}
