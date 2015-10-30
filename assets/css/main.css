@@ -3219,7 +3219,9 @@ section.two {
 }
 .links-container.chess {
 	width: 100px;
-
+}
+.links-container.asteroids {
+	width: 175px;
 }
 .link-text {
 	font-size: 30px;
