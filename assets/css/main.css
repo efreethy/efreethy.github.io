@@ -3239,8 +3239,8 @@ section.two {
 
 #gundamMovie {
    width: 330px;
-	 height: 800px;
-   background:transparent url('images/chess.jpg') no-repeat 0 0;
+	 height: 595px;
+   background:transparent url("images/gundam_background.png") no-repeat 0 0;
    -webkit-background-size:cover;
    -moz-background-size:cover;
    -o-background-size:cover;
