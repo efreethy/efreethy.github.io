@@ -3238,8 +3238,8 @@ section.two {
 }
 
 #gundamMovie {
-   width: 330px;
-	 height: 595px;
+   width: 310px;
+	 height: 545px;
    background:transparent url("images/gundam_background.png") no-repeat 0 0;
    -webkit-background-size:cover;
    -moz-background-size:cover;
