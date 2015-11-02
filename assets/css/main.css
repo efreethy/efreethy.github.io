@@ -3234,13 +3234,14 @@ section.two {
 	margin: auto;
 	width: 75%;
 	text-align: center;
-	margin-top: -30px;
+
 }
 
 #gundamMovie {
    width: 250px;
 	 height: 444px;
-	 float: right;
+	 margin: auto;
+
    background:transparent url("images/gundam_background.png") no-repeat 0 0;
    -webkit-background-size:cover;
    -moz-background-size:cover;
@@ -3264,7 +3265,7 @@ section.two {
 	clear: both;
 }
 .pet-desc-box {
-	float: left;
+	margin: auto;
 	width: 300px;
 	height: 300px;
 	border: solid 1px blue;
