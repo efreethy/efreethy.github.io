@@ -3287,9 +3287,8 @@ section.two {
 .icon-img-container {
 	width: 300px;
 	margin: auto;
-	border: solid 1px blue;
 	text-align: center;
-	margin-top: 55px;
+
 }
 
 .icon-img-container:after {
@@ -3312,4 +3311,9 @@ section.two {
 
 a.icon-image {
 	color: #B3E2D4;
+}
+
+.more-header {
+	margin-top: 55px;
+	text-align: center;
 }
