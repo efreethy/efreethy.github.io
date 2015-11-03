@@ -3270,3 +3270,11 @@ section.two {
 	height: 300px;
 	border: solid 1px blue;
 }
+
+.icon-box {
+	text-align: center;
+}
+
+.fa-phone {
+	color: #49BF9D;
+}
