@@ -3106,7 +3106,7 @@
 			}
 
 	}
-.skills-img-containter {
+.skills-img-container {
 
 
 	text-align: center;
@@ -3229,12 +3229,12 @@ section.two {
 
 .project-desc-text {
 	font-weight: 100;
-	font-size: 26px;
+	font-size: 22px;
 	border: 1px solid transparent;
 	margin: auto;
 	width: 75%;
 	text-align: center;
-	margin-top: -35px;
+	margin-top: -25px;
 }
 
 #gundamMovie {
@@ -3275,6 +3275,26 @@ section.two {
 	text-align: center;
 }
 
-.fa-phone {
-	color: #49BF9D;
+
+
+.icon-img {
+	margin-left: 20px;
+}
+
+.icon-img-container {
+	text-align: center;
+	margin-top: 35px;
+}
+
+.icon-img-container:after {
+	content: "";
+	display: block;
+	clear: both;
+
+}
+.icon-img-container:before {
+	content: "";
+	display: block;
+	clear: both;
+
 }
