@@ -3298,3 +3298,8 @@ section.two {
 	clear: both;
 
 }
+
+.icon-img:hover {
+	color: #49bf9d;
+	cursor: pointer;
+}
