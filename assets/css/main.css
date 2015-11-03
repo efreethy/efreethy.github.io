@@ -3273,6 +3273,9 @@ section.two {
 
 .icon-box {
 	text-align: center;
+	font-size: 12px;
+	float: left;
+	margin-left: 10px;
 }
 
 
@@ -3282,8 +3285,11 @@ section.two {
 }
 
 .icon-img-container {
+	width: 300px;
+	margin: auto;
+	border: solid 1px blue;
 	text-align: center;
-	margin-top: 35px;
+	margin-top: 55px;
 }
 
 .icon-img-container:after {
@@ -3299,7 +3305,11 @@ section.two {
 
 }
 
-.icon-img:hover {
-	color: #49bf9d;
+.fa:hover {
+	color: #B3E2D4;
 	cursor: pointer;
+}
+
+a.icon-image {
+	color: #B3E2D4;
 }
